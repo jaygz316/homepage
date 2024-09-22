@@ -850,6 +850,12 @@
         "screenshots": "Ekran görüntüleri",
         "totalfilesize": "Toplam Kapasite"
     },
+    "mailcow": {
+        "domains": "Etki Alanları",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "Depo"
+    },
     "netdata": {
         "warnings": "Uyarılar",
         "criticals": "Kritik"

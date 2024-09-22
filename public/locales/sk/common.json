@@ -850,6 +850,12 @@
         "screenshots": "Screenshots",
         "totalfilesize": "Total Size"
     },
+    "mailcow": {
+        "domains": "Domény",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "Úložisko"
+    },
     "netdata": {
         "warnings": "Upozornenia",
         "criticals": "Kritické"

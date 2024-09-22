@@ -850,6 +850,12 @@
         "screenshots": "Skermskote",
         "totalfilesize": "Totale Grootte"
     },
+    "mailcow": {
+        "domains": "Domeine",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "Bergplek"
+    },
     "netdata": {
         "warnings": "Waarskuwings",
         "criticals": "Kritici"

@@ -850,6 +850,12 @@
         "screenshots": "لقطات شاشة",
         "totalfilesize": "الحجم الكلي"
     },
+    "mailcow": {
+        "domains": "مجالات",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "التخزين"
+    },
     "netdata": {
         "warnings": "تحذيرات",
         "criticals": "حرج"

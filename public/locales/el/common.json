@@ -850,6 +850,12 @@
         "screenshots": "Screenshots",
         "totalfilesize": "Total Size"
     },
+    "mailcow": {
+        "domains": "Τομείς",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "Αποθηκευτικός χώρος"
+    },
     "netdata": {
         "warnings": "Warnings",
         "criticals": "Criticals"

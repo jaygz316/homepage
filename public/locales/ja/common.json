@@ -850,6 +850,12 @@
         "screenshots": "スクリーンショット",
         "totalfilesize": "合計サイズ"
     },
+    "mailcow": {
+        "domains": "ドメイン",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "ストレージ"
+    },
     "netdata": {
         "warnings": "警告",
         "criticals": "重大"

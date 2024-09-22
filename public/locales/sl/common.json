@@ -850,6 +850,12 @@
         "screenshots": "Posnetki zaslona",
         "totalfilesize": "Skupna velikost"
     },
+    "mailcow": {
+        "domains": "Domene",
+        "mailboxes": "Nabiralniki",
+        "mails": "Pošta",
+        "storage": "Shramba"
+    },
     "netdata": {
         "warnings": "Opozorila",
         "criticals": "Kritično"

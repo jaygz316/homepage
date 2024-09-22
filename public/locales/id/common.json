@@ -850,6 +850,12 @@
         "screenshots": "Screenshots",
         "totalfilesize": "Total Size"
     },
+    "mailcow": {
+        "domains": "Jumlah Domain",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "Penyimpanan"
+    },
     "netdata": {
         "warnings": "Peringatan",
         "criticals": "Kritis"

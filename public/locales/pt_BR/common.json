@@ -850,6 +850,12 @@
         "screenshots": "Screenshots",
         "totalfilesize": "Total Size"
     },
+    "mailcow": {
+        "domains": "Domínios",
+        "mailboxes": "Mailboxes",
+        "mails": "Mails",
+        "storage": "Armazenamento"
+    },
     "netdata": {
         "warnings": "Alertas",
         "criticals": "Críticos"
